@@ -1,0 +1,28 @@
+{
+  "name": "supabase",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.24.0",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.22",
+    "@types/react-dom": "^18.0.7",
+    "@vitejs/plugin-react": "^2.2.0",
+    "vite": "^3.2.0"
+  },
+  "description": "��#\u0000 \u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000s\u0000u\u0000p\u0000a\u0000b\u0000a\u0000s\u0000e\u0000-\u0000c\u0000r\u0000u\u0000d\u0000\r\u0000 \u0000",
+  "main": "vite.config.js",
+  "author": "",
+  "license": "ISC"
+}
